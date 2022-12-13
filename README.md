@@ -6,3 +6,4 @@
 
 Добавить удаленный адрес репозитория 
 Git remote add <name> <adress url>
+aaaaaaaaaaaaaaaa
